@@ -1,2 +1,1 @@
-Hello world 
-hello canada
+hello world 
